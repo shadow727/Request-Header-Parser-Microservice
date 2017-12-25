@@ -1,0 +1,25 @@
+{
+
+  "name": "Request-Header-Parser-Microservice",
+  "version": "0.0.1",
+  "description": "freecodecamp practice project",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.x"
+  },
+  "repository": {
+    "url": "https://github.com/shadow727/Request-Header-Parser-Microservice.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
